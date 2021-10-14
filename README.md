@@ -1,11 +1,16 @@
 <h1 align='center'>Retail Manager</h1>
 <h2>About</h2>
+A retail manager is someone who is responsible for the management of a retail store. They are responsible for every aspect of the day-to-day supervision of sales, staff, and stock.
 
-
+<h2>Home Page</h2>
 <h2>Admin</h2>  
 <h3>Sign up:</h3>
-1. ID needed <br>
-2. Captcha 
+1. Enter the Firstname of the member <br>
+2. Enter Lastname of member <br>
+4. Enter the valid email Id <br>
+5. Enter the Password and verify it by retype <br>
+6. Click the check box and verify you are not a robot <br>
+7. Then enter sign up button <br>
 <h1 align='center'><img src='Images/sign up.jpeg' width="500" height="300"></h1>  
 <h3>Login</h3>  
 <h1 align='center'><img src='Images/login.jpeg' width="500" height="300"></h1>
