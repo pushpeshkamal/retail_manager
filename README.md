@@ -52,6 +52,7 @@ A retail manager is someone who is responsible for the management of a retail st
 5. Create a database naming “ecomm” and then click on the import tab <br>
 6. Click on go <br>
 7. open index.php <br>
+<h1 align='center'><img src='Images/pro.jpeg' width="500" height="300"></h1>
 <h2>Contributors</h2>  
 * Pushpesh Kamal  <br>
 * Aditya Mishra<br>
