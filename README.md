@@ -1,7 +1,9 @@
 <h1 align='center'>Retail Manager</h1>
 <h2>About</h2>
 A retail manager is someone who is responsible for the management of a retail store. They are responsible for every aspect of the day-to-day supervision of sales, staff, and stock.
-Project:retail_manager is a content management system for e-commerce website, promoting local services using Google Maps API(nearby places) intergeration.
+
+
+Project:   retail_manager is a content management system for e-commerce website, promoting local services using Google Maps API(nearby places) intergeration.
 
 <h2>Home Page</h2>
 * Google Maps API(nearby places) integration<br>
@@ -10,9 +12,9 @@ Project:retail_manager is a content management system for e-commerce website, pr
 * Multiple categories can be chosen<br>
 <h1 align='center'><img src='Images/map.jpeg' width="500" height="300"></h1><h1 align='center'><img src='Images/retail.jpeg' width="500" height="300"></h1>  
 <h2>Using Computer Vision</h2>
-* Using Open CV lib
-* Deployment on Streamlit Barcode-reader 
-* Serial number is shown as output
+* Using Open CV lib<br>
+* Deployment on Streamlit Barcode-reader <br>
+* Serial number is shown as output<br>
 <h1 align='center'><img src='Images/bar.jpeg' width="500" height="300"></h1>  
 
 <h2>Admin</h2>  
