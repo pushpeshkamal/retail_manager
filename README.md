@@ -45,13 +45,13 @@ A retail manager is someone who is responsible for the management of a retail st
     git clone https://github.com/pushpeshkamal/retail_manager.git
     
 <h2>Procedure</h2>
-1. Download XAMPP <br>
-2. clone in xampp/htdocs/ <br>
-3. Launch Apache Server, my sql server and ProFTPD <br>
-4. Open a browser and go to URL http://localhost/phpmyadmin <br>
-5. Create a database naming “ecomm” and then click on the import tab <br>
-6. Click on go <br>
-7. open index.php <br>
+Step 1. Download XAMPP <br>
+Step 2. clone in xampp/htdocs/ <br>
+Step 3. Launch Apache Server, my sql server and ProFTPD <br>
+Step 4. Open a browser and go to URL http://localhost/phpmyadmin <br>
+Step 5. Create a database naming “ecomm” and then click on the import tab <br>
+Step 6. Click on go <br>
+Step 7. Open index.php <br>
 <h1 align='center'><img src='Images/pro.jpeg' width="500" height="300"></h1>
 <h2>Contributors</h2>  
 * Pushpesh Kamal  <br>
