@@ -1,4 +1,5 @@
 <h1 align='center'>Retail Manager</h1>
+<h1 align='center'><img src='Images/image1.jpg' width="400" height="300"></h1>
 <h2>About</h2>
 <h2>Demonstration</h2>
 <h2>Contributors</h2>  
