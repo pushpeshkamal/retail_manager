@@ -40,9 +40,10 @@ A retail manager is someone who is responsible for the management of a retail st
 * Photo <br>
 * No of quantity<br>
 <h1 align='center'><img src='Images/product list.jpeg' width="500" height="300"></h1>
-<h2> Clonning the Repo</h2>
+<h2> Clonning the Repo</h2> 
+
     git clone https://github.com/pushpeshkamal/retail_manager.git
-  
+    
 <h2>Procedure</h2>
 1. Download XAMPP <br>
 2. clone in xampp/htdocs/ <br>
